@@ -13,6 +13,10 @@ brew "p7zip"
 brew "unrar"
 cask "the-unarchiver"
 
+# Books
+cask "djview"
+cask "fbreader"
+
 # Browsers
 cask "google-chrome"
 
