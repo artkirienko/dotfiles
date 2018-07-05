@@ -46,6 +46,7 @@ cask "vlc"
 # Misc
 brew "exercism"
 brew "midnight-commander"
+cask "ngrok"
 cask "grammarly"
 cask "mactracker"
 cask "mounty"
