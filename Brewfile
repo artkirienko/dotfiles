@@ -64,6 +64,7 @@ brew "rbenv"
 
 # Social
 cask "messenger"
+cask "obs"
 cask "skype"
 cask "slack"
 cask "teamviewer"
