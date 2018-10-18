@@ -1,3 +1,5 @@
+[![IssuesClosed](https://img.shields.io/github/issues-closed/artkirienko/dotfiles.svg?style=flat-square)](https://github.com/artkirienko/dotfiles/issues)
+
 I've been using Mac for the last years. At some point, I realized that most of the programs I use can be installed through the Homebrew.
 
 ## Install Homebrew
