@@ -1,5 +1,6 @@
 [![IssuesClosed](https://img.shields.io/github/issues-closed/artkirienko/dotfiles.svg?style=flat-square)](https://github.com/artkirienko/dotfiles/issues)
 [![PullRequestsClosed](https://img.shields.io/github/issues-pr-closed/artkirienko/dotfiles.svg?style=flat-square)](https://github.com/artkirienko/dotfiles/pulls)
+[![HitCount](http://hits.dwyl.io/artkirienko/dotfiles.svg)](http://hits.dwyl.io/artkirienko/dotfiles)
 
 I've been using Mac for the last years. At some point, I realized that most of the programs I use can be installed through the Homebrew.
 
