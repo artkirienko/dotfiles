@@ -1,0 +1,8 @@
+os: osx
+sudo: true
+addons:
+  homebrew:
+    brewfile: true
+script:
+  - sed -i '' -E '/google-chrome|mounty|virtualbox|whatsapp/d' Brewfile
+  - brew bundle
