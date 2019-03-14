@@ -26,6 +26,7 @@ brew "redis"
 
 # Games
 brew "c2048"
+cask "steam"
 
 # Heroku
 brew "heroku/brew/heroku"
