@@ -1,3 +1,4 @@
+[![Build Status](https://img.shields.io/travis/artkirienko/dotfiles/master.svg?style=flat-square)](https://travis-ci.org/artkirienko/dotfiles)
 [![IssuesClosed](https://img.shields.io/github/issues-closed/artkirienko/dotfiles.svg?style=flat-square)](https://github.com/artkirienko/dotfiles/issues)
 [![PullRequestsClosed](https://img.shields.io/github/issues-pr-closed/artkirienko/dotfiles.svg?style=flat-square)](https://github.com/artkirienko/dotfiles/pulls)
 [![HitCount](http://hits.dwyl.io/artkirienko/dotfiles.svg)](http://hits.dwyl.io/artkirienko/dotfiles)
