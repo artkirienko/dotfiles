@@ -3,6 +3,7 @@ sudo: true
 addons:
   homebrew:
     brewfile: true
+before_install:
+  - sed -i '' -E '/exiftool|ffmpeg|google-chrome|mounty|virtualbox|whatsapp/d' Brewfile
 script:
-  - sed -i '' -E '/google-chrome|mounty|virtualbox|whatsapp/d' Brewfile
   - brew bundle
