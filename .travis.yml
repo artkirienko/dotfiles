@@ -4,6 +4,6 @@ addons:
   homebrew:
     brewfile: true
 before_install:
-  - sed -i '' -E '/exiftool|ffmpeg|google-chrome|mounty|virtualbox|whatsapp/d' Brewfile
+  - sed -i '' -E '/exiftool|epic-games|ffmpeg|google-chrome|mounty|virtualbox|whatsapp/d' Brewfile
 script:
   - brew bundle
