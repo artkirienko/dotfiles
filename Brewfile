@@ -29,6 +29,7 @@ brew "c2048"
 cask "epic-games"
 cask "origin"
 cask "steam"
+cask "supertuxkart"
 
 # Heroku
 brew "heroku/brew/heroku"
