@@ -30,6 +30,7 @@ cask "epic-games"
 cask "origin"
 cask "steam"
 cask "supertuxkart"
+cask "teeworlds"
 
 # Heroku
 brew "heroku/brew/heroku"
