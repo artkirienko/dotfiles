@@ -9,10 +9,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
-    - name: Set up Ruby 2.6.3
-      uses: actions/setup-ruby@v1
-      with:
-        ruby-version: 2.6.3
     - name: Bundle and Run Ruby scripts
       run: |
-        brew bundle
+        sed -i '' -E '/exiftool|epic-games|ffmpeg|google-chrome|mounty|phantomjs|virtualbox|whatsapp/d' Brewfile
+        brew update && brew bundle
