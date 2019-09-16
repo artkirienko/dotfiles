@@ -1,4 +1,4 @@
-name: Ruby
+name: Homebrew
 
 on: [push]
 
@@ -9,7 +9,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
-    - name: Bundle and Run Ruby scripts
+    - name: Brew Bundle
       run: |
         sed -i '' -E '/exiftool|epic-games|ffmpeg|google-chrome|mounty|node|phantomjs|virtualbox|whatsapp/d' Brewfile
         brew update && brew bundle
