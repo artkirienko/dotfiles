@@ -1,0 +1,15 @@
+name: Homebrew
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: macOS-10.14
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Brew Bundle
+      run: |
+        sed -i '' -E '/djview|exiftool|epic-games|ffmpeg|google-chrome|mounty|node|phantomjs|virtualbox|whatsapp/d' Brewfile
+        brew update && brew bundle
