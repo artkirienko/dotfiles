@@ -67,7 +67,7 @@ brew "ruby-build"
 brew "rbenv"
 
 # Social
-cask "messenger"
+cask "caprine"
 cask "obs"
 cask "skype"
 cask "slack"
