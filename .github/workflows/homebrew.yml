@@ -11,5 +11,5 @@ jobs:
     - uses: actions/checkout@v1
     - name: Brew Bundle
       run: |
-        sed -i '' -E '/djview|exiftool|epic-games|ffmpeg|google-chrome|mounty|node|virtualbox|whatsapp/d' Brewfile
+        sed -i '' -E '/djview|exiftool|epic-games|ffmpeg|google-chrome|midnight-commander|mounty|node|virtualbox|whatsapp/d' Brewfile
         brew update && brew bundle
