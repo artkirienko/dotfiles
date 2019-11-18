@@ -27,6 +27,7 @@ brew "redis"
 # Games
 brew "c2048"
 brew "curseofwar"
+brew "nudoku"
 cask "dungeon-crawl-stone-soup-tiles"
 cask "epic-games"
 cask "hedgewars"
