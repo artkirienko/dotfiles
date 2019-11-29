@@ -41,7 +41,7 @@ cask "visual-studio-code"
 
 # JS
 brew "node"
-brew "phantomjs"
+cask "phantomjs"
 
 # Media
 cask "spotify"
