@@ -26,6 +26,7 @@ brew "redis"
 
 # Games
 brew "c2048"
+cask "dungeon-crawl-stone-soup-tiles"
 cask "epic-games"
 cask "hedgewars"
 cask "origin"
