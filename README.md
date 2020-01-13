@@ -6,6 +6,8 @@
 
 # Dotfiles
 
+just a test
+
 I've been using Mac for the last years. At some point, I realized that most of the programs I use can be installed through the Homebrew. **My current setup** <sub><sup>**MacBook Pro (15-inch, Early 2011, macOS High Sierra 10.13.6 17G5019, Intel Core i7-2635QM @ 2.00GHz, 16 GB 1600 MHz DDR3, Intel HD Graphics 3000 / AMD Radeon HD 6490M, Samsung SSD 850 EVO 250GB)**</sub></sup>
 
 ## Install Homebrew
