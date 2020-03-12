@@ -26,6 +26,7 @@ brew "redis"
 
 # Games
 brew "c2048"
+brew "cataclysm"
 brew "curseofwar"
 brew "nudoku"
 brew "tty-solitaire"
