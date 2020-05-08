@@ -6,7 +6,7 @@ tap "homebrew/services"
 
 # Android
 cask "android-file-transfer"
-cask "nox-app-player"
+cask "noxappplayer"
 
 # Archives
 brew "p7zip"
@@ -66,7 +66,7 @@ cask "mounty"
 brew "exiftool"
 brew "ffmpeg", args: ["with-libass"]
 brew "imagemagick"
-brew "mkvtoolnix"
+# brew "mkvtoolnix"
 brew "youtube-dl"
 
 # Ruby
